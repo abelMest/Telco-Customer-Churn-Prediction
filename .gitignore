@@ -1,0 +1,27 @@
+Environments
+
+.venv/
+venv/
+ENV/
+env/
+
+Python cache
+
+pycache/
+*.py[cod]
+*$py.class
+
+Data and Models (Optional but recommended if files are >100MB)
+
+best_model.pkl
+
+scaler.pkl
+
+encoders.pkl
+
+features.pkl
+
+Operating system files
+
+.DS_Store
+Thumbs.db
